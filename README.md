@@ -1,2 +1,1 @@
-# Nashville_Housing_Data_Cleaning_Portfolio_Project_Queries
 Nashville Housing Data Cleaning Portfolio Project Queries 
